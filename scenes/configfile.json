@@ -1,0 +1,15 @@
+{
+  "width": 600,
+  "height": 600,
+  "entities": [ 
+      {"type": "Braitenberg", "x":220, "y":400, "r":15, "theta": 270.0, "light_behavior": "Love", "food_behavior": "Aggressive", "bv_behavior": "Coward" },
+      {"type": "Braitenberg", "x":120, "y":300, "r":15, "theta": 170.0, "light_behavior": "Aggressive", "food_behavior": "Aggressive", "bv_behavior": "Explore" },
+      {"type": "Braitenberg", "x":420, "y":200, "r":15, "theta": 100.0, "light_behavior": "Explore", "food_behavior": "Aggressive", "bv_behavior": "Coward" },
+      {"type": "Braitenberg", "x":320, "y":100, "r":15, "theta": 270.0, "light_behavior": "Love", "food_behavior": "Aggressive", "bv_behavior": "Coward" },
+      {"type": "Predator", "x":220, "y":350, "r":15, "theta": 270.0 },
+      {"type": "Light", "x":100, "y":250, "r":30 },
+      {"type": "Light", "x":400, "y":350, "r":30 },
+      {"type": "Food", "x":200, "y":250, "r":30, "theta": 0.0 },
+      {"type": "Food", "x":300, "y":150, "r":20, "theta": 0.0 },
+      {"type": "Food", "x":50, "y":450, "r":20, "theta": 0.0 } ]
+}

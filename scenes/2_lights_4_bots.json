@@ -1,0 +1,15 @@
+{
+  "width": 600,
+  "height": 600,
+  "entities": [ 
+      {"type": "Braitenberg", "x":120, "y":300, "r":15, "theta": 270.0, "light_behavior": "Aggressive", "food_behavior": "Aggressive" },
+      {"type": "Braitenberg", "x":220, "y":300, "r":15, "theta": 270.0, "light_behavior": "Love", "food_behavior": "Aggressive" },
+      {"type": "Braitenberg", "x":320, "y":300, "r":15, "theta": 270.0, "light_behavior": "Explore", "food_behavior": "Aggressive" },
+      {"type": "Braitenberg", "x":420, "y":300, "r":15, "theta": 270.0, "light_behavior": "Coward", "food_behavior": "Aggressive" },
+      {"type": "Predator", "x":520, "y":300, "r":15, "theta": 270.0, "light_behavior": "Coward", "food_behavior": "None", "bv_behavior": "Aggressive" },
+      {"type": "Food", "x":100, "y":100, "r":20, "theta": 0.0 },
+      {"type": "Food", "x":300, "y":500, "r":20, "theta": 0.0 },
+      {"type": "Food", "x":500, "y":100, "r":20, "theta": 0.0 },
+      {"type": "Light", "x":100, "y":250, "r":30 },
+      {"type": "Light", "x":500, "y":350, "r":30 } ]
+}

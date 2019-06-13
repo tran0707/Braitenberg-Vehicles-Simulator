@@ -1,0 +1,11 @@
+type,x,y,r,theta,light_behavior,food_behavior,robot_behavior
+Braitenberg,220,400,15,270.0,Love,Aggressive,Coward
+Braitenberg,120,300,15,170.0,Aggressive,Aggressive,Explore
+Braitenberg,420,200,15,100.0,Explore,Aggressive,Coward
+Braitenberg,320,100,15,270.0,Love,Aggressive,Coward
+Predator,220,350,15,270
+Light,100,250,30
+Light,400,350,30
+Food,200,250,30,0.0
+Food,300,150,20,0.0
+Food,50,450,20,0.0
